@@ -1,3 +1,0 @@
-testing git status command
-first modification ssv.txt file
-changeing
